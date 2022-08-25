@@ -13,8 +13,6 @@ print(rdd.collect())
 #df.show()
 
 
-#data = [12,32,34,4,54,56]
-#drdd = spark.sparkContext.parallelize(data)
 data = "D:\\bigdata\\drivers\\asl.csv"
 #aslrdd = spark.sparkContext.textFile()
 
